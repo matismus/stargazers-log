@@ -1,0 +1,42 @@
+[
+  {
+    "type": "WatchEvent",
+    "repo": {
+      "name": "microsoft/vscode",
+      "description": "Visual Studio Code",
+      "language": "TypeScript",
+      "url": "https://github.com/microsoft/vscode"
+    },
+    "created_at": "2026-08-26T10:15:00Z"
+  },
+  {
+    "type": "WatchEvent",
+    "repo": {
+      "name": "github/docs",
+      "description": "The open-source repo for GitHub's documentation.",
+      "language": "JavaScript",
+      "url": "https://github.com/github/docs"
+    },
+    "created_at": "2026-08-22T14:40:00Z"
+  },
+  {
+    "type": "WatchEvent",
+    "repo": {
+      "name": "denoland/deno",
+      "description": "A secure runtime for JavaScript and TypeScript.",
+      "language": "Rust",
+      "url": "https://github.com/denoland/deno"
+    },
+    "created_at": "2026-08-18T08:05:00Z"
+  },
+  {
+    "type": "WatchEvent",
+    "repo": {
+      "name": "astral-sh/ruff",
+      "description": "An extremely fast Python linter and code formatter.",
+      "language": "Rust",
+      "url": "https://github.com/astral-sh/ruff"
+    },
+    "created_at": "2026-08-12T17:25:00Z"
+  }
+]
